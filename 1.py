@@ -1,1 +1,1 @@
-可以的
+print("hello world")
